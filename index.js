@@ -88,5 +88,3 @@ const todoList = () => {
   console.log("\n\n")
 
 
-
-  console.log("to list is fully completed")
