@@ -86,3 +86,7 @@ const todoList = () => {
   let formattedItemsDueLater = todos.toDisplayableList(itemsDueLater)
   console.log(formattedItemsDueLater)
   console.log("\n\n")
+
+
+
+  console.log("to list is fully completed")
