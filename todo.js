@@ -42,10 +42,13 @@ const todoList = () => {
     return { all, add, markAsComplete, overdue, dueToday, dueLater, toDisplayableList };
   }
   
+
+  module.exports = todoList
+
   // ####################################### #
   // DO NOT CHANGE ANYTHING BELOW THIS LINE. #
   // ####################################### #
-  
+  /*
   const todos = todoList();
   
   const formattedDate = d => {
@@ -87,4 +90,5 @@ const todoList = () => {
   console.log(formattedItemsDueLater)
   console.log("\n\n")
 
+    */
 
